@@ -1,0 +1,12 @@
+body {
+    background-color:	rgb(255, 255, 224);
+}
+
+.red {
+    color: red;
+    text-align: center;
+}
+
+.italic {
+    font-style: italic;
+}
